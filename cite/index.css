@@ -1,0 +1,50 @@
+body {
+  background-color: white;
+
+}
+
+h1 {
+  color:black;
+  font-family: verdana;
+   font-size: 27px;
+   text-align: center;
+   positon: absolute;
+
+}
+h2 {
+  color:black;
+  font-family: verdana;
+   font-size: 43px;
+   text-align: center;
+   positon: absolute;
+   padding-top: 70px;
+   padding-bottom: 20px;
+
+}
+li{
+ color: black;
+ font-family: verdana;
+ font-size: 25px;
+ positon:absolute;
+ margin-top:10px;
+ margin-bottom: 20px;
+ margin-right: 10px;
+}
+
+.rgf button{
+  margin-right: 20px;
+}
+.rgf a{
+  color: lightblue;
+}
+
+.container{
+  display: flex;
+
+}
+.image{
+  height: 450px;
+}
+.text-col{
+  padding-top: 150px;
+}
